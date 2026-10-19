@@ -9,3 +9,6 @@ Java · SQL/MySQL · Python · Git · Android Studio · HTML/CSS · JavaScript
 Estoy recuperando y subiendo los proyectos que desarrollé durante el ciclo de DAM. Iré añadiendo más a medida que los vaya documentando.
 
 LinkedIn: www.linkedin.com/in/george-lee-oliver-1b7807442
+
+📍 Cartagena, Murcia, España · Disponible para prácticas (presencial o remoto) 
+📧 georgeoliver.code@gmail.com
